@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Data Analyst</h3>
 
 
-- 🔭 Learning MySQL, Python, and working on projects. [https://www.theforage.com/profile/LsCBi2Si6LR279E27](https://www.theforage.com/profile/LsCBi2Si6LR279E27)
-
 - 🌱 I’m currently learning **MySQL, Python, GenAI**
+
+- 🔭 Learning MySQL, Python, and working on projects. [https://www.theforage.com/profile/LsCBi2Si6LR279E27](https://www.theforage.com/profile/LsCBi2Si6LR279E27)
 
 - 👯 Here are my dashboards [https://public.tableau.com/app/profile/nallabothula.vinith/vizzes](https://public.tableau.com/app/profile/nallabothula.vinith/vizzes)
 
