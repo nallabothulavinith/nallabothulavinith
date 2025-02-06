@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinith</h1>
-<div align="center"> <img src="Untitled copy.PNG">
-<h3 align="center">Aspiring Data Analyst skilled in Excel, Power BI, Tableau, SQL, GenAI and Python, with a retail sales background and a passion for data insights.</h3>
+<div align="center"> <img src="Untitled copy.PNG"></div>
+<h3 align="center">Aspiring Data Analyst skilled in Excel, Power BI, Tableau, SQL, GenAI, and Python, with a retail sales background and a passion for data insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nallabothulavinith&label=Profile%20views&color=0e75b6&style=flat" alt="nallabothulavinith" /> </p>
 
