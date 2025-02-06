@@ -30,7 +30,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nallabothulavinith&" alt="nallabothulavinith" /></p>
-<img src="(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXA5ZWo3aXp2Mm9sdzJteDE3aHM0dHlra3EzaDZudHd6NThoNWVxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)" 
-     width="300" 
-     style="position: fixed; bottom: 0; right: 0;">
-
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXA5ZWo3aXp2Mm9sdzJteDE3aHM0dHlra3EzaDZudHd6NThoNWVxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)">
