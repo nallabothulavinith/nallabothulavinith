@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **MySQL, Python, GenAI**
 
-- 🔭 Learning MySQL, Python, and working on projects. [https://www.theforage.com/profile/LsCBi2Si6LR279E27](https://www.theforage.com/profile/LsCBi2Si6LR279E27)
+- 🔭 Learning MySQL, Python, and working on projects: [https://www.theforage.com/profile/LsCBi2Si6LR279E27](https://www.theforage.com/profile/LsCBi2Si6LR279E27)
 
-- 👯 Here are my dashboards [https://public.tableau.com/app/profile/nallabothula.vinith/vizzes](https://public.tableau.com/app/profile/nallabothula.vinith/vizzes)
+- 👯 Here are my dashboards: [https://public.tableau.com/app/profile/nallabothula.vinith/vizzes](https://public.tableau.com/app/profile/nallabothula.vinith/vizzes)
 
-- 👨‍💻 All of my projects are available at [https://nallabothulavinith.github.io/Vinith-Portfolio/](https://nallabothulavinith.github.io/Vinith-Portfolio/)
+- 👨‍💻 All of my projects are available in my portfolio: [https://nallabothulavinith.github.io/Vinith-Portfolio/](https://nallabothulavinith.github.io/Vinith-Portfolio/)
 
 - 💬 Ask me about **Excel, Tableau**
 
