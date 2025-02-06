@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **MySQL, Python, GenAI**
 
-- 🔭 Learning MySQL, Python, and working on projects: [https://www.theforage.com/profile/LsCBi2Si6LR279E27](https://www.theforage.com/profile/LsCBi2Si6LR279E27)
+- 👨‍💻 All of my projects are available in my portfolio: [https://nallabothulavinith.github.io/Vinith-Portfolio/](https://nallabothulavinith.github.io/Vinith-Portfolio/)
 
 - 👯 Here are my dashboards: [https://public.tableau.com/app/profile/nallabothula.vinith/vizzes](https://public.tableau.com/app/profile/nallabothula.vinith/vizzes)
 
-- 👨‍💻 All of my projects are available in my portfolio: [https://nallabothulavinith.github.io/Vinith-Portfolio/](https://nallabothulavinith.github.io/Vinith-Portfolio/)
+- 🔭 Learning MySQL, Python, and working on projects: [https://www.theforage.com/profile/LsCBi2Si6LR279E27](https://www.theforage.com/profile/LsCBi2Si6LR279E27)
 
-- 💬 Ask me about **Excel, Tableau**
+- 💬 Ask me about & Read My study's in Medium: **Excel, Tableau**, https://medium.com/@nallabothulavinith
 
 - 📫 How to reach me **vinith1211@gmail.com**
 
